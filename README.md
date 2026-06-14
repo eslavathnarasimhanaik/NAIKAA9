@@ -89,7 +89,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
 <meta name="google-site-verification" content="ad5xSF75uh-eU1Bq95IE2SqvErlO_qvwZWoad6x56-o" />
 <meta name="google-site-verification" content="wLUzJlltphNNuI_lnhYceFv1vQJ68mCj_PU7YclaPVI" />
 <meta name="geo.region" content="IN-TG" />
-<meta name="geo.placename" content="Kothagudem" />
+<meta name="geo.placename" content="Kothagudem, Bhadradri Kothagudem District, Telangana, India" />
 <meta name="geo.position" content="17.554019;80.617638" />
 <meta name="ICBM" content="17.554019, 80.617638" />
 <link rel="canonical" href="https://eslavathnarasimhanaik.github.io/" />
@@ -147,7 +147,7 @@ To help AI generative engines (Gemini, ChatGPT, Copilot) and search engines (Goo
       "image": "https://avatars.githubusercontent.com/u/164381248?v=4",
       "address": {
         "@type": "PostalAddress",
-        "addressLocality": "Kothagudem",
+        "addressLocality": "Kothagudem, Bhadradri Kothagudem",
         "addressRegion": "Telangana",
         "addressCountry": "India"
       },
