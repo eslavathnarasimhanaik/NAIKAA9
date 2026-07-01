@@ -164,9 +164,9 @@ Meal logging prototype with calorie estimation workflows.
 ## 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eslavathnarasimhanaik&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=eslavathnarasimhanaik&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=eslavathnarasimhanaik&layout=compact&theme=tokyonight&langs_count=6" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=eslavathnarasimhanaik&layout=compact&theme=tokyonight&langs_count=6" height="170"/>
 </p>
 
 <p align="center">
