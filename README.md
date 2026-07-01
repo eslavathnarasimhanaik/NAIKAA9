@@ -127,7 +127,7 @@ Available for:
 * 💼 [LinkedIn](https://www.linkedin.com/in/eslavathnarasimhanaik)
 * 🐙 [GitHub](https://github.com/eslavathnarasimhanaik)
 * 🌐 [Portfolio](https://eslavathnarasimhanaik.github.io/)
-* ✉️ [Email](mailto:narasimhanaik591@gmail.com)
+* ✉️ [Email](mailto:narasimhanak591@gmail.com)
 * 🐦 [X (Twitter)](https://x.com/naikcreator)
 
 ---
