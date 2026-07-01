@@ -1,89 +1,138 @@
-# 👋 Hi there, I'm Eslavath Narasimha Naik! (@eslavathnarasimhanaik)
+# <h1 align="center">Hi 👋, I'm Eslavath Narasimha Naik</h1>
 
-Welcome to my GitHub profile! I am an **AI Creator & Full-Stack Developer** specializing in Java, Spring Boot, React.js, REST APIs, and OpenAI integrations. Building AI products, SaaS applications, and automation solutions.
+<h3 align="center">
+Full-Stack Developer | Java Backend Enthusiast | AI Builder
+</h3>
 
-🏆 **OpenAI × Outskill AI Builders Hackathon**
-- **Project:** [DukaanAI](https://succinct-smart-dukaan-flow.base44.app/) (AI-Powered Business Assistant)
-- **Score:** 88/100
-- **Usefulness:** 25/25
-- **Creativity:** 20/20
-- **Technical Execution:** 22/25
-- **Presentation:** 10/10
-
----
-
-## 🚀 Live Projects Showcase
-Here are some of my active live web applications:
-- 🤖 **[DukaanAI](https://succinct-smart-dukaan-flow.base44.app/)** — AI-powered retail business assistant with natural-language database query parsing.
-- 📅 **[NAIK Study Tracker](https://eslavathnarasimhanaik.github.io/attendance/)** — An interactive 90-day consistency tracker for IBPS SO and Java study schedules.
-- 💸 **[Loonemi (Loan EMI Calculator)](https://naikaa.me)** — A sleek dashboard for calculating loan interest and monthly payments.
-- ☀️ **[SolarOne Project](https://eslavathnarasimhanaik.github.io/SOLARONEPROJECT/)** — A digital layout and interface resource dashboard for solar energy systems.
-- 🚗 **[Smart Parking Dashboard](https://eslavathnarasimhanaik.github.io/smartparking/)** — A web application for reservation and parking space logging.
-- 🍔 **[Food AI App](https://eslavathnarasimhanaik.github.io/food-ai/)** — AI-powered food classification and dining logger.
-
----
-
-## 🏫 Education
-- **Institution:** Malla Reddy College of Engineering and Technology (MRCET)
-- **Degree:** B.Tech in Computer Science & Engineering
-- **Timeline:** 2023 – 2027
-
----
-
-## 🛠️ Skills & Technologies
-- **Frontend**: React.js
-- **Backend**: Java, Spring Boot
-- **API Development**: REST APIs
-- **Database**: MySQL, MongoDB
-- **Deployment**: Vercel, GitHub Pages
-- **Version Control**: Git, GitHub
-- **AI Integration**: OpenAI API
-
----
-
-## 📊 GitHub Stats & Activity
 <p align="center">
-  <a href="https://github.com/eslavathnarasimhanaik">
-    <img src="https://github-readme-stats.vercel.app/api?username=eslavathnarasimhanaik&show_icons=true&theme=radical&count_private=true" alt="Eslavath Narasimha Naik's GitHub Stats" height="180" />
-  </a>
-  <a href="https://github.com/eslavathnarasimhanaik">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslavathnarasimhanaik&layout=compact&theme=radical&langs_count=6" alt="Eslavath Narasimha Naik's Top Languages" height="180" />
-  </a>
+Building AI-powered applications, Java/Spring Boot backends, and practical software products.
 </p>
 
 ---
 
-## 💼 Open to Opportunities (Hire Me!)
-I am actively seeking:
-- 🚀 **Software Engineering Internships**
-- ☕ **Java Backend Developer Roles**
-- 💻 **Full-Stack Developer Opportunities**
-- 🤖 **AI Engineer Internships**
+## 🚀 Highlights
 
-If you are a recruiter or hiring manager looking for a passionate developer who builds clean, scalable backend systems and responsive frontends, let's talk!
-
-- **Availability**: Open to Remote, Hybrid, or Relocation opportunities.
-- **Fast Connect**:
-  - Connect with me on [Eslavath Narasimha Naik - LinkedIn](https://www.linkedin.com/in/eslavathnarasimhanaik) to discuss job opportunities.
-  - Review my code contributions directly on [Eslavath Narasimha Naik - GitHub](https://github.com/eslavathnarasimhanaik).
-  - Connect with me on [Eslavath Narasimha Naik - Instagram](https://www.instagram.com/narasimhanaik.ai).
-  - Connect with me on [Eslavath Narasimha Naik - Facebook](https://www.facebook.com/eslavathnarasimhanaik).
-  - Connect with me on [Eslavath Narasimha Naik - X (Twitter)](https://x.com/naikcreator).
-  - Subscribe to my [ESLAVATH NARASIMHA NAIK - YouTube Channel](https://www.youtube.com/@narasimhanaikai) to listen to my work.
-  - Connect with me on [Eslavath Narasimha Naik - Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/).
-  - Read my technical articles on my [Eslavath Narasimha Naik - Blogger Website](https://eslavathnarasimhanaik.blogspot.com/).
+* 🎓 **B.Tech CSE (2023–2027)** — Malla Reddy College of Engineering & Technology (MRCET)
+* 🏆 **OpenAI × Outskill AI Builders Hackathon** — **88/100**
+* 🚀 Developed and deployed **6+ web applications**
+* ☕ Passionate about **Java, Spring Boot, AI Integrations, and SaaS Development**
+* 🌍 Open to **Software Engineering, Backend, Full-Stack, and AI Internships**
 
 ---
 
-## 📨 Let's Connect!
-- **LinkedIn**: [Eslavath Narasimha Naik on LinkedIn](https://www.linkedin.com/in/eslavathnarasimhanaik)
-- **GitHub**: [Eslavath Narasimha Naik on GitHub](https://github.com/eslavathnarasimhanaik)
-- **Instagram**: [Eslavath Narasimha Naik on Instagram](https://www.instagram.com/narasimhanaik.ai)
-- **Facebook**: [Eslavath Narasimha Naik on Facebook](https://www.facebook.com/eslavathnarasimhanaik)
-- **X (Twitter)**: [Eslavath Narasimha Naik on X (Twitter)](https://x.com/naikcreator)
-- **YouTube**: [ESLAVATH NARASIMHA NAIK on YouTube](https://www.youtube.com/@narasimhanaikai)
-- **Pinterest**: [Eslavath Narasimha Naik on Pinterest](https://in.pinterest.com/eslavathnarasimhanaik/)
-- **Blogger**: [Eslavath Narasimha Naik Blog](https://eslavathnarasimhanaik.blogspot.com/)
+## 🏆 Hackathon Spotlight
+
+### OpenAI × Outskill AI Builders Hackathon
+
+**Score:** **88/100**
+
+**Project:** **DukaanAI**
+
+Evaluation Breakdown:
+
+* Usefulness — 25/25
+* Creativity — 20/20
+* Technical Implementation — 22/25
+* Presentation — 10/10
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Stack |
+| --- | --- | --- |
+| **[DukaanAI](https://succinct-smart-dukaan-flow.base44.app/)** | Conversational retail assistant for inventory, invoicing, and credit tracking | Java, Spring Boot, React, OpenAI API |
+| **[NAIK Study Tracker](https://eslavathnarasimhanaik.github.io/attendance/)** | Interactive 90-day planner and study consistency tracker | HTML, CSS, JavaScript |
+| **[Loonemi](https://naikaa.me)** | Loan EMI dashboard with amortization schedules | JavaScript, Tailwind CSS |
+| **[SolarOne](https://eslavathnarasimhanaik.github.io/SOLARONEPROJECT/)** | Solar monitoring dashboard prototype | HTML, CSS, JavaScript |
+| **[Smart Parking](https://eslavathnarasimhanaik.github.io/smartparking/)** | Parking availability visualization and reservation prototype | HTML, CSS, JavaScript |
+| **[Food AI App](https://eslavathnarasimhanaik.github.io/food-ai/)** | Meal logging prototype with calorie estimation workflows | HTML, CSS, JavaScript |
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+* Java
+* Spring Boot
+* REST APIs
+
+### Frontend
+
+* React.js
+* JavaScript
+* Tailwind CSS
+* HTML5
+* CSS3
+
+### Databases
+
+* MySQL
+* MongoDB
+
+### AI & Automation
+
+* OpenAI API
+* Prompt Engineering
+
+### Tools & Deployment
+
+* Git
+* GitHub
+* Vercel
+* GitHub Pages
+
+---
+
+## 📚 Currently Learning
+
+* Spring Security
+* Docker
+* AWS Fundamentals
+* System Design
+* LLM-powered Applications
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=eslavathnarasimhanaik&show_icons=true&theme=radical&count_private=true" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslavathnarasimhanaik&layout=compact&theme=radical&langs_count=6" height="170"/>
+</p>
+
+---
+
+## 💼 Open to Opportunities
+
+Interested in:
+
+* 🚀 Software Engineering Internships
+* ☕ Java / Spring Boot Backend Roles
+* 💻 Full-Stack Development Opportunities
+* 🤖 AI Engineering Internships
+
+Available for:
+
+* Remote
+* Hybrid
+* Relocation
+
+---
+
+## 📫 Connect
+
+* 💼 [LinkedIn](https://www.linkedin.com/in/eslavathnarasimhanaik)
+* 🐙 [GitHub](https://github.com/eslavathnarasimhanaik)
+* 🌐 [Portfolio](https://eslavathnarasimhanaik.github.io/)
+* ✉️ [Email](mailto:narasimhanaik591@gmail.com)
+* 🐦 [X (Twitter)](https://x.com/naikcreator)
+
+---
+
+> *Building practical products, experimenting with AI, and continuously improving through hands-on projects.*
 
 ---
 
