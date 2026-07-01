@@ -98,9 +98,9 @@ Evaluation Breakdown:
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=eslavathnarasimhanaik&show_icons=true&theme=radical&count_private=true" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api?username=eslavathnarasimhanaik&show_icons=true&theme=radical&count_private=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eslavathnarasimhanaik&layout=compact&theme=radical&langs_count=6" height="170"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs?username=eslavathnarasimhanaik&layout=compact&theme=radical&langs_count=6" height="170"/>
 </p>
 
 ---
